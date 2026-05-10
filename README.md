@@ -91,36 +91,5 @@ Extracted time-based features from `Date_Time`:
 
 ---
 
-## How to Run
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/load-type-prediction.git
-cd load-type-prediction
-```
-
-### 2. Create a virtual environment
-```bash
-python -m venv venv
-source venv/bin/activate        # Mac/Linux
-venv\Scripts\activate           # Windows
-```
-
-### 3. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Launch the notebook
-```bash
-jupyter notebook Load_Type_Prediction.ipynb
-```
-
-### 5. Run all cells top to bottom
-All outputs, charts, and evaluation reports will generate automatically.
-
-
-
-## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
