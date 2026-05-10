@@ -31,18 +31,6 @@ Power systems operate under varying load conditions throughout the day. This pro
 
 ---
 
-## Project Structure
-
-```
-load-type-prediction/
-├── Load_Type_Prediction.ipynb   ← Main notebook (EDA + Models + Evaluation)
-├── load_data.csv                ← Dataset
-├── requirements.txt             ← Python dependencies
-└── README.md                    ← This file
-```
-
----
-
 ## Approach
 
 ### 1. Exploratory Data Analysis (EDA)
