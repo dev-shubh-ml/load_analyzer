@@ -99,7 +99,7 @@ Extracted time-based features from `Date_Time`:
 3. `Usage_kWh` — energy consumption
 4. `CO2(tCO2)` — emissions level
 
-> 💡 Time-of-day features dominate — power load patterns are strongly driven by daily usage cycles.
+
 
 ---
 
